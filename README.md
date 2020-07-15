@@ -7,20 +7,20 @@ A list of useful cli tools for daily use
 
 http://zsh.sourceforge.net/
 
-## terminal emulator
-
-### tilix
-
-https://github.com/gnunn1/tilix
-
 ### oh-my-zsh
 
 https://github.com/ohmyzsh/ohmyzsh
 
 #### useful plugins
 
-- [Auto Suggestions](https://github.com/zsh-users/zsh-autosuggestions)
-- [Syntax Highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+- [auto suggestions](https://github.com/zsh-users/zsh-autosuggestions)
+- [syntax highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+
+## terminal emulator
+
+### tilix
+
+https://github.com/gnunn1/tilix
 
 ## modern alternatives to popular unix tools
 
